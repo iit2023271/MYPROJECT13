@@ -3,6 +3,10 @@
 A front-end for an AI image generator: enter a text prompt and it shows the generated image below the form.
 
 
+## Screenshot
+
+![Demo](screenshots/demo.png)
+
 ## Features
 
 - Text prompt input
